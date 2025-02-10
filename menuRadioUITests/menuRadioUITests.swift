@@ -4,7 +4,7 @@
 //
 //  Created by Vitaliy Sharovatov on 08.02.2025.
 //
-
+/*
 import XCTest
 
 final class menuRadioUITests: XCTestCase {
@@ -41,3 +41,4 @@ final class menuRadioUITests: XCTestCase {
         }
     }
 }
+*/

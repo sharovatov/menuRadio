@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "867BEDE4-B915-4FB5-A2E2-FBDE5DCFDC58",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:menuRadio.xcodeproj",
+        "identifier" : "DA7D69A92D575A33005394A8",
+        "name" : "menuRadioUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:menuRadio.xcodeproj",
+        "identifier" : "DA2D081F2D58FCE200ECABFC",
+        "name" : "menuRadioE2ETests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:menuRadio.xcodeproj",
+        "identifier" : "DA7D699F2D575A33005394A8",
+        "name" : "menuRadioTests"
+      }
+    }
+  ],
+  "version" : 1
+}

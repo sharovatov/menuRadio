@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "263892E6-CD06-417B-8304-4B2D4B692F66",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:menuRadio.xcodeproj",
+        "identifier" : "DA7D699F2D575A33005394A8",
+        "name" : "menuRadioTests"
+      }
+    }
+  ],
+  "version" : 1
+}
